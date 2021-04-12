@@ -20,8 +20,8 @@ AppModule = __decorate([
     common_1.Module({
         imports: [
             serve_static_1.ServeStaticModule.forRoot({
-                rootPath: path_1.join(__dirname, '..', 'client'),
-                exclude: ['/business-partners*', '/test'],
+                rootPath: path_1.join(__dirname, "..", "client"),
+                exclude: ["/business-partners*", "/test"],
             }),
         ],
         controllers: [app_controller_1.AppController, business_partner_controller_1.BusinessPartnerController, ui_test_1.UITest],

@@ -25,14 +25,14 @@ let UITest = class UITest {
     }
 };
 __decorate([
-    common_1.Get('test'),
+    common_1.Get("test"),
     __metadata("design:type", Function),
     __metadata("design:paramtypes", []),
     __metadata("design:returntype", void 0)
 ], UITest.prototype, "getTest", null);
 __decorate([
-    common_1.Get('ui'),
-    common_1.Render('index'),
+    common_1.Get("ui"),
+    common_1.Render("index"),
     __metadata("design:type", Function),
     __metadata("design:paramtypes", []),
     __metadata("design:returntype", void 0)

@@ -14,14 +14,13 @@ const common_1 = require("@nestjs/common");
 const cloud_sdk_vdm_business_partner_service_1 = require("@sap/cloud-sdk-vdm-business-partner-service");
 let BusinessPartnerController = class BusinessPartnerController {
     getBusinessPartners() {
-        return getAllBusinessPartners()
-            .catch(error => {
+        return getAllBusinessPartners().catch((error) => {
             throw new common_1.HttpException(`Failed to get business partners - ${error.message}`, 500);
         });
     }
 };
 __decorate([
-    common_1.Get('business-partners'),
+    common_1.Get("business-partners"),
     __metadata("design:type", Function),
     __metadata("design:paramtypes", []),
     __metadata("design:returntype", void 0)
@@ -31,10 +30,8 @@ BusinessPartnerController = __decorate([
 ], BusinessPartnerController);
 exports.BusinessPartnerController = BusinessPartnerController;
 function getAllBusinessPartners() {
-    return cloud_sdk_vdm_business_partner_service_1.BusinessPartner.requestBuilder()
-        .getAll()
-        .execute({
-        destinationName: 'AGILITADEVmy304005S4hana'
+    return cloud_sdk_vdm_business_partner_service_1.BusinessPartner.requestBuilder().getAll().execute({
+        destinationName: "AGILITADEVmy304005S4hana",
     });
 }
 //# sourceMappingURL=business-partner.controller.js.map

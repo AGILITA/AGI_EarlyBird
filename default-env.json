@@ -1,5 +1,4 @@
 {
-	"VCAP_SERVICES": {
 		"destination": [
 			{
 				"label": "destination",
@@ -66,4 +65,3 @@
 			}
 		]
 	}
-}
