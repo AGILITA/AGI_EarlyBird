@@ -161,75 +161,65 @@
         "signature": "d2f31f19e1ba6ed59be9259d660a239d9a3fcbbc8e038c6b2009bde34b175fed",
         "affectsGlobalScope": false
       },
-      "../client/webapp/component.js": {
+      "../client/component.js": {
         "version": "bc066268fffc4cea73bff1678104b0c0566be5c4a60576a0380dd3247d2d2772",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "affectsGlobalScope": true
       },
-      "../client/webapp/controller/basecontroller.js": {
+      "../client/controller/basecontroller.js": {
         "version": "9a6577c4d122bf3ac3641c106495e7c08213dbcfed1cebcefab5ee0f48a94aba",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "affectsGlobalScope": true
       },
-      "../client/webapp/controller/mainview.controller.js": {
+      "../client/controller/mainview.controller.js": {
         "version": "960beab2e09f7e67e39660642a6aabbd0b84af6fe2cfc9b7cc37f57d582a1f50",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "affectsGlobalScope": true
       },
-      "../client/webapp/model/formatter.js": {
+      "../client/model/formatter.js": {
         "version": "4a3745aab0e35218306b63b58475f48069f9d292719d105726c03de97969a085",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "affectsGlobalScope": true
       },
-      "../client/webapp/model/models.js": {
+      "../client/model/models.js": {
         "version": "5992219d5ab7fe4ef33eaa7cf774a8225f3486b5d73a9eaf9059c4a862baa476",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "affectsGlobalScope": true
       },
-      "../client/webapp/test/initmockserver.js": {
+      "../client/test/initmockserver.js": {
         "version": "73a3d0d3c5ec5b12ac60f0399e2fee1a054240fd4b9e719cd69dcf2154f93ab4",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "affectsGlobalScope": true
       },
-      "../client/webapp/test/testsuite.qunit.js": {
+      "../client/test/testsuite.qunit.js": {
         "version": "46b45007b1d6b3014447d12d7737c9fea2dc23b92f7956268c156b5ecdde9d6d",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "affectsGlobalScope": true
       },
-      "../client/webapp/test/integration/alljourneys.js": {
+      "../client/test/integration/alljourneys.js": {
         "version": "21506fb5314e01ce54f59ce3e7e69c198b43adfc4f1d488e8703316d5701ce4b",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "affectsGlobalScope": true
       },
-      "../client/webapp/test/integration/mainjourney.js": {
+      "../client/test/integration/mainjourney.js": {
         "version": "af35229ae9cde799cc40094c63d1013e93022ec0581eaaab39fff9b48984bae9",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "affectsGlobalScope": true
       },
-      "../client/webapp/test/integration/opatests.qunit.js": {
+      "../client/test/integration/opatests.qunit.js": {
         "version": "a2fd679adde833605adae8e980616d695f2a5630ffdab01b643879cedbe7d767",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "affectsGlobalScope": true
       },
-      "../client/webapp/test/integration/arrangements/startup.js": {
+      "../client/test/integration/arrangements/startup.js": {
         "version": "506dfca6ee2507d2acec7eec31d46fd39d372982d974fc3852f0970a9c5f4630",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "affectsGlobalScope": true
       },
-      "../client/webapp/test/integration/pages/main.js": {
+      "../client/test/integration/pages/main.js": {
         "version": "11926f24318bd6eacf14bb59aa68100c1bab0ca484bbbba92a91d8ec6784ee08",
         "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "affectsGlobalScope": true
-      },
-      "../dist__/app.service.d.ts": {
-        "version": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2",
-        "signature": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2",
-        "affectsGlobalScope": false
-      },
-      "../dist__/app.controller.d.ts": {
-        "version": "ef022c91ea9e75ab4082f2e881f9c4db7b346be2da706e876b253bebce5e6140",
-        "signature": "ef022c91ea9e75ab4082f2e881f9c4db7b346be2da706e876b253bebce5e6140",
-        "affectsGlobalScope": false
       },
       "../node_modules/reflect-metadata/index.d.ts": {
         "version": "8d6d51a5118d000ed3bfe6e1dd1335bebfff3fef23cd2af2f84a24d30f90cc90",
@@ -1246,14 +1236,14 @@
         "signature": "95b5a3078fdc51508d5d9cde59a1dd9525b53fd42dc12265a55261fd415d3274",
         "affectsGlobalScope": false
       },
-      "../dist__/app.controller.js": {
-        "version": "e41f9cc7b71f1f6d4f29a2cafb957300c5ec47156bc1008852b7a58a295fe89f",
-        "signature": "f5b68d4ac5189b661e0721c39a07f66f5c0e1189b356c079af1efc4915d48af9",
-        "affectsGlobalScope": true
+      "../src/app.service.ts": {
+        "version": "eaf8514ce110fa428a93a27408df4d06d133dbd9ed0a775c315ddfdd507853a9",
+        "signature": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2",
+        "affectsGlobalScope": false
       },
-      "../dist__/app.module.d.ts": {
-        "version": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644",
-        "signature": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644",
+      "../src/app.controller.ts": {
+        "version": "260f889b9e2b69f77be1155348eb345166aec664b3efff6720053c6844a41f28",
+        "signature": "ef022c91ea9e75ab4082f2e881f9c4db7b346be2da706e876b253bebce5e6140",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/globals.d.ts": {
@@ -3046,13 +3036,13 @@
         "signature": "0e2aba47db488c571bbc2adfbaa298f884d46fb4a0f1b8c8a57f32fba98ab91b",
         "affectsGlobalScope": false
       },
-      "../dist__/business-partner.controller.d.ts": {
-        "version": "cf86c2c6ba3946c950db023b516047bf33657504efb178b8553581ffc5ecac44",
+      "../src/business-partner.controller.ts": {
+        "version": "deb50619ebe178ca1d2376f4962540a5b86ad6b5e6f934ae6303f0311feafc3a",
         "signature": "cf86c2c6ba3946c950db023b516047bf33657504efb178b8553581ffc5ecac44",
         "affectsGlobalScope": false
       },
-      "../dist__/ui-test.d.ts": {
-        "version": "4b1eec3be01b01a5ed3d8bbc66564a764111feb03ef49f800de3fa869afdeec7",
+      "../src/ui-test.ts": {
+        "version": "e5169566c24873e903463490779b18ad070c5bbe805a93d724ed49e735c2879f",
         "signature": "4b1eec3be01b01a5ed3d8bbc66564a764111feb03ef49f800de3fa869afdeec7",
         "affectsGlobalScope": false
       },
@@ -3284,236 +3274,6 @@
       "../node_modules/@nestjs/serve-static/index.d.ts": {
         "version": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
         "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
-        "affectsGlobalScope": false
-      },
-      "../dist__/app.module.js": {
-        "version": "b02bd29079fe14868c03b3f4a3ab50f0d8b00a4657e23f66bda7fb407c89f96d",
-        "signature": "5babcb6d3b91525b6768b97a82bb377fd53d745f0cbbd2bacf1100767921a0a1",
-        "affectsGlobalScope": true
-      },
-      "../dist__/app.service.js": {
-        "version": "9e24902ea7bbc78b2d5d961aab2eb5464541515fd889f37e6fb536ca88787c0b",
-        "signature": "bc1c521ef908aa3b3d14d620acde7e9542fed501e74ffb134e0cbbfb8d0401ed",
-        "affectsGlobalScope": true
-      },
-      "../dist__/business-partner.controller.js": {
-        "version": "55f1c17437d60dca903fb66ecafebda729fe39cab0528979f6a6a7fa1f8a18a1",
-        "signature": "e265b97ad6c802205f075d4e709a6b03e21815cac48df36c3c7acdb28ceeaeb6",
-        "affectsGlobalScope": true
-      },
-      "../dist__/main.d.ts": {
-        "version": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
-        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
-        "affectsGlobalScope": false
-      },
-      "../dist__/main.js": {
-        "version": "f95f0839fa47d8ee74c10614c9a06f774b9c1b349823713ed4e75af116684c80",
-        "signature": "d461148b545220d84cd7276e7635bc60b7bfd9be57628e12d526e9398f8c8633",
-        "affectsGlobalScope": true
-      },
-      "../dist__/ui-test.js": {
-        "version": "6881cf4892bf1a92b269654599b9cf991dd60822c80ba80232b85d768ffc3708",
-        "signature": "08aa4d14d718375c3d4d42d209b4a0eceb93fa87010c37850571a34d94e12698",
-        "affectsGlobalScope": true
-      },
-      "../dist__/client/webapp/component.d.ts": {
-        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": false
-      },
-      "../dist__/client/webapp/component.js": {
-        "version": "c87fc62873534dccc690a81bb5480828288a17ded4c509f4fdf3e848f06afec5",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": true
-      },
-      "../dist__/client/webapp/controller/basecontroller.d.ts": {
-        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": false
-      },
-      "../dist__/client/webapp/controller/basecontroller.js": {
-        "version": "813391fe714ef292f62329212fbf64aa1604feefb5bfcbb3fd0e1b19c9d4dc82",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": true
-      },
-      "../dist__/client/webapp/controller/mainview.controller.d.ts": {
-        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": false
-      },
-      "../dist__/client/webapp/controller/mainview.controller.js": {
-        "version": "55371d5183bc7474b6ae113f5d40c3db1e3326349e1fe1262aa183a63d685a1b",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": true
-      },
-      "../dist__/client/webapp/model/formatter.d.ts": {
-        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": false
-      },
-      "../dist__/client/webapp/model/formatter.js": {
-        "version": "5b51efed75c0edbaed20613566bbf0b34bd645340001ec0d31e916cfd1e1a67a",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": true
-      },
-      "../dist__/client/webapp/model/models.d.ts": {
-        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": false
-      },
-      "../dist__/client/webapp/model/models.js": {
-        "version": "c65bcbd117c228c7149e8581e220c6fb0ee9241bd40f2a5ba0ad4b6caa01f535",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": true
-      },
-      "../dist__/client/webapp/test/initmockserver.d.ts": {
-        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": false
-      },
-      "../dist__/client/webapp/test/initmockserver.js": {
-        "version": "b11d830ff6582fc3c84f90d5607142cb9119249b2984300222a300b28ff1010c",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": true
-      },
-      "../dist__/client/webapp/test/testsuite.qunit.d.ts": {
-        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": false
-      },
-      "../dist__/client/webapp/test/testsuite.qunit.js": {
-        "version": "9ba3002dd49b29c79f992f6cc5dcc3f39e08ea83952ca7c50de8ed8700706333",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": true
-      },
-      "../dist__/client/webapp/test/integration/alljourneys.d.ts": {
-        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": false
-      },
-      "../dist__/client/webapp/test/integration/alljourneys.js": {
-        "version": "3e0b08ff45dc6fa78b6843cc3b404440b9f47d776d1b5ead3d6b8108c867585c",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": true
-      },
-      "../dist__/client/webapp/test/integration/mainjourney.d.ts": {
-        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": false
-      },
-      "../dist__/client/webapp/test/integration/mainjourney.js": {
-        "version": "85e8824a357c6672291a20ad05eb472edd65d4760fe984a87b3be5dc7e98216e",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": true
-      },
-      "../dist__/client/webapp/test/integration/opatests.qunit.d.ts": {
-        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": false
-      },
-      "../dist__/client/webapp/test/integration/opatests.qunit.js": {
-        "version": "bcfe28366bfc9b62bf07d33348c618257777cabf4a77f30f2faf9be6c11351e4",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": true
-      },
-      "../dist__/client/webapp/test/integration/arrangements/startup.d.ts": {
-        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": false
-      },
-      "../dist__/client/webapp/test/integration/arrangements/startup.js": {
-        "version": "2bd437cd1af2df0dcfb4cbc685debbd2168e07db1c0b1ee3d4c0c99a65c0bee5",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": true
-      },
-      "../dist__/client/webapp/test/integration/pages/main.d.ts": {
-        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": false
-      },
-      "../dist__/client/webapp/test/integration/pages/main.js": {
-        "version": "0ba30a1a316edfc5d9ac7a7e6beb2e0b0002325feaf7c40543565d739a371477",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "affectsGlobalScope": true
-      },
-      "../dist__/src/app.service.d.ts": {
-        "version": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2",
-        "signature": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2",
-        "affectsGlobalScope": false
-      },
-      "../dist__/src/app.controller.d.ts": {
-        "version": "ef022c91ea9e75ab4082f2e881f9c4db7b346be2da706e876b253bebce5e6140",
-        "signature": "ef022c91ea9e75ab4082f2e881f9c4db7b346be2da706e876b253bebce5e6140",
-        "affectsGlobalScope": false
-      },
-      "../dist__/src/app.controller.js": {
-        "version": "e41f9cc7b71f1f6d4f29a2cafb957300c5ec47156bc1008852b7a58a295fe89f",
-        "signature": "f5b68d4ac5189b661e0721c39a07f66f5c0e1189b356c079af1efc4915d48af9",
-        "affectsGlobalScope": true
-      },
-      "../dist__/src/app.module.d.ts": {
-        "version": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644",
-        "signature": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644",
-        "affectsGlobalScope": false
-      },
-      "../dist__/src/business-partner.controller.d.ts": {
-        "version": "cf86c2c6ba3946c950db023b516047bf33657504efb178b8553581ffc5ecac44",
-        "signature": "cf86c2c6ba3946c950db023b516047bf33657504efb178b8553581ffc5ecac44",
-        "affectsGlobalScope": false
-      },
-      "../dist__/src/ui-test.d.ts": {
-        "version": "4b1eec3be01b01a5ed3d8bbc66564a764111feb03ef49f800de3fa869afdeec7",
-        "signature": "4b1eec3be01b01a5ed3d8bbc66564a764111feb03ef49f800de3fa869afdeec7",
-        "affectsGlobalScope": false
-      },
-      "../dist__/src/app.module.js": {
-        "version": "77ab9030248ff837612c9a57dbef24299aba2564b11de66e082f8401892f06b2",
-        "signature": "5babcb6d3b91525b6768b97a82bb377fd53d745f0cbbd2bacf1100767921a0a1",
-        "affectsGlobalScope": true
-      },
-      "../dist__/src/app.service.js": {
-        "version": "9e24902ea7bbc78b2d5d961aab2eb5464541515fd889f37e6fb536ca88787c0b",
-        "signature": "bc1c521ef908aa3b3d14d620acde7e9542fed501e74ffb134e0cbbfb8d0401ed",
-        "affectsGlobalScope": true
-      },
-      "../dist__/src/business-partner.controller.js": {
-        "version": "55f1c17437d60dca903fb66ecafebda729fe39cab0528979f6a6a7fa1f8a18a1",
-        "signature": "e265b97ad6c802205f075d4e709a6b03e21815cac48df36c3c7acdb28ceeaeb6",
-        "affectsGlobalScope": true
-      },
-      "../dist__/src/main.d.ts": {
-        "version": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
-        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
-        "affectsGlobalScope": false
-      },
-      "../dist__/src/main.js": {
-        "version": "f95f0839fa47d8ee74c10614c9a06f774b9c1b349823713ed4e75af116684c80",
-        "signature": "d461148b545220d84cd7276e7635bc60b7bfd9be57628e12d526e9398f8c8633",
-        "affectsGlobalScope": true
-      },
-      "../dist__/src/ui-test.js": {
-        "version": "6881cf4892bf1a92b269654599b9cf991dd60822c80ba80232b85d768ffc3708",
-        "signature": "08aa4d14d718375c3d4d42d209b4a0eceb93fa87010c37850571a34d94e12698",
-        "affectsGlobalScope": true
-      },
-      "../src/app.service.ts": {
-        "version": "eaf8514ce110fa428a93a27408df4d06d133dbd9ed0a775c315ddfdd507853a9",
-        "signature": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2",
-        "affectsGlobalScope": false
-      },
-      "../src/app.controller.ts": {
-        "version": "260f889b9e2b69f77be1155348eb345166aec664b3efff6720053c6844a41f28",
-        "signature": "ef022c91ea9e75ab4082f2e881f9c4db7b346be2da706e876b253bebce5e6140",
-        "affectsGlobalScope": false
-      },
-      "../src/business-partner.controller.ts": {
-        "version": "deb50619ebe178ca1d2376f4962540a5b86ad6b5e6f934ae6303f0311feafc3a",
-        "signature": "cf86c2c6ba3946c950db023b516047bf33657504efb178b8553581ffc5ecac44",
-        "affectsGlobalScope": false
-      },
-      "../src/ui-test.ts": {
-        "version": "e5169566c24873e903463490779b18ad070c5bbe805a93d724ed49e735c2879f",
-        "signature": "4b1eec3be01b01a5ed3d8bbc66564a764111feb03ef49f800de3fa869afdeec7",
         "affectsGlobalScope": false
       },
       "../src/app.module.ts": {
@@ -3753,80 +3513,6 @@
       "configFilePath": "../tsconfig.build.json"
     },
     "referencedMap": {
-      "../dist__/app.controller.d.ts": [
-        "../dist__/app.service.d.ts"
-      ],
-      "../dist__/app.controller.js": [
-        "../dist__/app.service.d.ts",
-        "../node_modules/@nestjs/common/index.d.ts"
-      ],
-      "../dist__/app.module.js": [
-        "../dist__/app.controller.d.ts",
-        "../dist__/app.service.d.ts",
-        "../dist__/business-partner.controller.d.ts",
-        "../dist__/ui-test.d.ts",
-        "../node_modules/@nestjs/common/index.d.ts",
-        "../node_modules/@nestjs/serve-static/index.d.ts",
-        "../node_modules/@types/node/path.d.ts"
-      ],
-      "../dist__/app.service.js": [
-        "../node_modules/@nestjs/common/index.d.ts"
-      ],
-      "../dist__/business-partner.controller.d.ts": [
-        "../node_modules/@sap/cloud-sdk-vdm-business-partner-service/index.d.ts"
-      ],
-      "../dist__/business-partner.controller.js": [
-        "../node_modules/@nestjs/common/index.d.ts",
-        "../node_modules/@sap/cloud-sdk-vdm-business-partner-service/index.d.ts"
-      ],
-      "../dist__/main.js": [
-        "../dist__/app.module.d.ts",
-        "../node_modules/@nestjs/core/index.d.ts"
-      ],
-      "../dist__/src/app.controller.d.ts": [
-        "../dist__/src/app.service.d.ts"
-      ],
-      "../dist__/src/app.controller.js": [
-        "../dist__/src/app.service.d.ts",
-        "../node_modules/@nestjs/common/index.d.ts"
-      ],
-      "../dist__/src/app.module.js": [
-        "../dist__/src/app.controller.d.ts",
-        "../dist__/src/app.service.d.ts",
-        "../dist__/src/business-partner.controller.d.ts",
-        "../dist__/src/ui-test.d.ts",
-        "../node_modules/@nestjs/common/index.d.ts",
-        "../node_modules/@nestjs/serve-static/index.d.ts",
-        "../node_modules/@types/node/path.d.ts"
-      ],
-      "../dist__/src/app.service.js": [
-        "../node_modules/@nestjs/common/index.d.ts"
-      ],
-      "../dist__/src/business-partner.controller.d.ts": [
-        "../node_modules/@sap/cloud-sdk-vdm-business-partner-service/index.d.ts"
-      ],
-      "../dist__/src/business-partner.controller.js": [
-        "../node_modules/@nestjs/common/index.d.ts",
-        "../node_modules/@sap/cloud-sdk-vdm-business-partner-service/index.d.ts"
-      ],
-      "../dist__/src/main.js": [
-        "../dist__/src/app.module.d.ts",
-        "../node_modules/@nestjs/core/index.d.ts"
-      ],
-      "../dist__/src/ui-test.d.ts": [
-        "../dist__/src/app.service.d.ts"
-      ],
-      "../dist__/src/ui-test.js": [
-        "../dist__/src/app.service.d.ts",
-        "../node_modules/@nestjs/common/index.d.ts"
-      ],
-      "../dist__/ui-test.d.ts": [
-        "../dist__/app.service.d.ts"
-      ],
-      "../dist__/ui-test.js": [
-        "../dist__/app.service.d.ts",
-        "../node_modules/@nestjs/common/index.d.ts"
-      ],
       "../node_modules/@babel/parser/typings/babel-parser.d.ts": [
         "../node_modules/@babel/types/lib/index.d.ts"
       ],
@@ -6768,24 +6454,6 @@
       ]
     },
     "exportedModulesMap": {
-      "../dist__/app.controller.d.ts": [
-        "../dist__/app.service.d.ts"
-      ],
-      "../dist__/business-partner.controller.d.ts": [
-        "../node_modules/@sap/cloud-sdk-vdm-business-partner-service/index.d.ts"
-      ],
-      "../dist__/src/app.controller.d.ts": [
-        "../dist__/src/app.service.d.ts"
-      ],
-      "../dist__/src/business-partner.controller.d.ts": [
-        "../node_modules/@sap/cloud-sdk-vdm-business-partner-service/index.d.ts"
-      ],
-      "../dist__/src/ui-test.d.ts": [
-        "../dist__/src/app.service.d.ts"
-      ],
-      "../dist__/ui-test.d.ts": [
-        "../dist__/app.service.d.ts"
-      ],
       "../node_modules/@babel/parser/typings/babel-parser.d.ts": [
         "../node_modules/@babel/types/lib/index.d.ts"
       ],

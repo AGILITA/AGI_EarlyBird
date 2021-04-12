@@ -1,1 +1,0 @@
-{"version":3,"file":"AllJourneys.js","sourceRoot":"","sources":["../../../../../client/webapp/test/integration/AllJourneys.js"],"names":[],"mappings":"AAAA,GAAG,CAAC,EAAE,CAAC,MAAM,CAAC;IACZ,kBAAkB;IAClB,wBAAwB;IACxB,eAAe;CAChB,EAAE,UAAS,IAAI,EAAE,OAAO;IACvB,YAAY,CAAC;IAEb,IAAI,CAAC,YAAY,CAAC;QAChB,YAAY,EAAE,IAAI,OAAO,EAAE;QAC3B,QAAQ,EAAE,IAAI;KACf,CAAC,CAAC;AAEL,CAAC,CAAC,CAAC"}
