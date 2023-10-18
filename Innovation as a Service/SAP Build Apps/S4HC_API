@@ -1,0 +1,22 @@
+#clientKey=<< Existing password/certificate removed on export >>
+#Password=<< Existing password/certificate removed on export >>
+#
+#Wed Oct 18 07:58:09 UTC 2023
+sap.applicationdevelopment.actions.enabled=true
+User=xxxxxxxxx
+Name=S4HC_API
+URL=https\://myxxxxxxx-api.s4hana.cloud.sap/sap/opu/odata/sap/API_BUSINESS_PARTNER
+audience=https\://my404128.s4hana.cloud.sap
+HTML5.DynamicDestination=true
+Type=HTTP
+HTML5.Timeout=60000
+ProxyType=Internet
+sap.processautomation.enabled=true
+WebIDEEnabled=true
+authnContextClassRef=urn\:oasis\:names\:tc\:SAML\:2.0\:ac\:classes\:PreviousSession
+WebIDEUsage=odata_gen
+Authentication=BasicAuthentication
+Description=SAP API im Build BP
+AppgyverEnabled=true
+nameIdFormat=urn\:oasis\:names\:tc\:SAML\:1.1\:nameid-format\:emailAddress
+sap.build.usage=odata_gen
