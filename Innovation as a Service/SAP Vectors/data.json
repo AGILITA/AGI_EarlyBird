@@ -1,0 +1,54 @@
+{
+  "value": [
+    {
+      "material_number": "M001",
+      "description": "Steel Rod",
+      "cost_per_unit": 25.5,
+      "amount_in_storage": 150,
+      "unit_of_measure": "kg",
+      "supplier": "ABC Metals Inc.",
+      "last_restock_date": "2024-11-01",
+      "reorder_level": 50
+    },
+    {
+      "material_number": "M002",
+      "description": "Aluminum Sheet",
+      "cost_per_unit": 12.75,
+      "amount_in_storage": 300,
+      "unit_of_measure": "m2",
+      "supplier": "XYZ Alloys Ltd.",
+      "last_restock_date": "2024-10-15",
+      "reorder_level": 100
+    },
+    {
+      "material_number": "M003",
+      "description": "Copper Wire",
+      "cost_per_unit": 8.9,
+      "amount_in_storage": 2000,
+      "unit_of_measure": "m",
+      "supplier": "CopperCraft Co.",
+      "last_restock_date": "2024-11-20",
+      "reorder_level": 500
+    },
+    {
+      "material_number": "M004",
+      "description": "Plastic Granules",
+      "cost_per_unit": 3.45,
+      "amount_in_storage": 5000,
+      "unit_of_measure": "kg",
+      "supplier": "PolyWorks Inc.",
+      "last_restock_date": "2024-09-25",
+      "reorder_level": 1000
+    },
+    {
+      "material_number": "M005",
+      "description": "Glass Pane",
+      "cost_per_unit": 45.0,
+      "amount_in_storage": 75,
+      "unit_of_measure": "m2",
+      "supplier": "ClearVision Glass",
+      "last_restock_date": "2024-11-10",
+      "reorder_level": 25
+    }
+  ]
+}
