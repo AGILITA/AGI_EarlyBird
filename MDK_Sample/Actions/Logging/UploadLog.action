@@ -1,0 +1,10 @@
+{
+    "ActionResult": {
+        "_Name": "UploadLog"
+    },
+    "ActivityIndicatorText": "Uploading...",
+    "OnFailure": "/EarlyBird_MDKSample/Actions/Logging/LogUploadFailure.action",
+    "OnSuccess": "/EarlyBird_MDKSample/Actions/Logging/LogUploadSuccessful.action",
+    "ShowActivityIndicator": false,
+    "_Type": "Action.Type.Logger.Upload"
+}

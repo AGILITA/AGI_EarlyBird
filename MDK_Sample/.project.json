@@ -1,0 +1,40 @@
+{
+	"Credential": "cf",
+	"Template": {
+		"Id": "@ext-mdkvsc-npm-dev/generator-mdk",
+		"Name": "Base",
+		"Version": "0.0.1"
+	},
+	"CF": {
+		"Target": "https://api.cf.us10-001.hana.ondemand.com",
+		"Organization": "b480d11f-64b8-4b21-be13-fc88c78774c1",
+		"Space": "fdc211c6-bfc5-4271-97d6-24c14d2d9260"
+	},
+	"MobileService": {
+		"Type": "standard",
+		"AdminAPI": "https://mobile-service-cockpit-api.cfapps.us10.hana.ondemand.com/cockpit/v1/org/b480d11f-64b8-4b21-be13-fc88c78774c1/space/fdc211c6-bfc5-4271-97d6-24c14d2d9260",
+		"AppId": "earlybird_mdksample",
+		"Destination": [
+			"com.sap.edm.sampleservice.v4"
+		]
+	},
+	"Onboarding": {
+		"Schema": "sapmobilesvcs",
+		"TimeZone": "UTC",
+		"URL": "sapmobilesvcs://?AppId=earlybird_mdksample&ClientId=c7395714-97c0-4ad2-8415-8c9b721d4f41&ServerUrl=https://75e9e096trial-dev-earlybird-mdksample.cfapps.us10-001.hana.ondemand.com&SapCloudPlatformEndpoint=https://75e9e096trial-dev-earlybird-mdksample.cfapps.us10-001.hana.ondemand.com&AuthorizationEndpointUrl=https://75e9e096trial-dev-earlybird-mdksample.cfapps.us10-001.hana.ondemand.com/oauth2/api/v1/authorize&RedirectUrl=https://75e9e096trial-dev-earlybird-mdksample.cfapps.us10-001.hana.ondemand.com&TokenUrl=https://75e9e096trial-dev-earlybird-mdksample.cfapps.us10-001.hana.ondemand.com/oauth2/api/v1/token&multiUser=false"
+	},
+	"LCAP": {
+		"FullName": "",
+		"Service": [],
+		"sourceTemplate": {
+			"id": "html5moduletemplates.basicSAPUI5ApplicationProjectModule",
+			"version": "1.40.12"
+		}
+	},
+	"Build": {
+		"SourceMap": true,
+		"TSTarget": "es6",
+		"WMF": true,
+		"Platform": "iOS & Android"
+	}
+}

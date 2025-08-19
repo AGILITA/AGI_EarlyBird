@@ -1,0 +1,10 @@
+{
+	"Application": "/home/user/projects/EarlyBird_MDKSample/Application.app",
+	"Target": "Mobile Services",
+	"OtherApps": [
+		{
+			"Application": "/home/user/projects/EarlyBird_MDKSample/Application.app",
+			"Target": "Mobile Services"
+		}
+	]
+}
